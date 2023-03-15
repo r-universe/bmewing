@@ -3,8 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gpx"]
+	path = gpx
+	url = https://github.com/bmewing/gpx
+	shallow = true
+	registered = true
 [submodule "mgsub"]
 	path = mgsub
 	url = https://github.com/bmewing/mgsub
+	shallow = true
+	registered = true
+[submodule "readOffice"]
+	path = readOffice
+	url = https://github.com/bmewing/readoffice
+	shallow = true
+	registered = true
+[submodule "whitechapelR"]
+	path = whitechapelR
+	url = https://github.com/bmewing/whitechapelr
 	shallow = true
 	registered = true

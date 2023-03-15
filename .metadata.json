@@ -1,6 +1,18 @@
 [
   {
+    "package": "gpx",
+    "oncran": true
+  },
+  {
     "package": "mgsub",
+    "oncran": true
+  },
+  {
+    "package": "readOffice",
+    "oncran": true
+  },
+  {
+    "package": "whitechapelR",
     "oncran": true
   }
 ]
