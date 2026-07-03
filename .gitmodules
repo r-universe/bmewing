@@ -2,15 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "gpx"]
-	path = gpx
-	url = https://github.com/bmewing/gpx
 [submodule "mgsub"]
 	path = mgsub
 	url = https://github.com/bmewing/mgsub
-[submodule "readOffice"]
-	path = readOffice
-	url = https://github.com/bmewing/readoffice
-[submodule "whitechapelR"]
-	path = whitechapelR
-	url = https://github.com/bmewing/whitechapelr
